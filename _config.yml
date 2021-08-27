@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lichen Wang"
+title                    : "Qianqian Ma"
 title_separator          : "-"
-name                     : &name "Lichen Wang"
+name                     : &name "Qianqian Ma"
 description              : &description "personal description"
-url                      : https://wanglichenxj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://maqqbu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wanglichenxj/wanglichenxj.github.io"
+repository               : "maqqbu/maqqbu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lichen Wang"
-  # avatar           : "final_picture.jpg"
-  avatar           : "profile_img.png"
+  name             : "Qianqian Ma"
+  avatar           : "qq_img.jpeg"
   # bio              : "Communicating with the data to contribute to the field of Deep Learning and Computer Vision for mankind is my pre-eminent ambition"
   bio              : "Computer Vision and Machine Learning (wanglichenxj@gmail.com)"
-  location         : "Seattle, USA"
-  employer         : "Zillow Group"
+  location         : "Boston, USA"
+  employer         : "Boston University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=cE25iX4AAAAJ&hl=en"
   DBLP             : 
@@ -99,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wanglichenxj"
+  github           : "maqqbu"
   google_plus      :
   keybase          :
   instagram        :

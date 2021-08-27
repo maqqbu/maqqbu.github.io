@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Lichen Wang's homepage!
+Welcome to Qianqian Ma's homepage!
 
 <div style="text-align: justify"> 
-I'm an Applied Scientist in <a href="https://www.zillowgroup.com/">Zillow Group</a> since 2021. I received my Ph.D. degree in <a href="https://www.zillowgroup.com/">SMILE Lab</a>, Department of Electrical & Computer Engineering at <a href="https://www.zillowgroup.com/">Northeastern University</a> under the supervision of Prof. <a href="https://www.zillowgroup.com/">Yun (Raymond) Fu</a>, in 2021. I received my M.S. degree in Electrical Engineering from <a href="https://www.zillowgroup.com/">Xi'an Jiaotong University</a>, China, in 2016. I received my B.S. degree in Electrical Engineering from <a href="https://www.zillowgroup.com/">Harbin Institute of Technology</a>, China, in 2013. My research interests include Machine Learning, Data Mining, Computer Vision, and Image Processing.<br /><br />
+I'm a Phd Candidate in Boston University in <a href="https://www.zillowgroup.com/">Zillow Group</a> since 2021. I received my Ph.D. degree in <a href="https://www.zillowgroup.com/">SMILE Lab</a>, Department of Electrical & Computer Engineering at <a href="https://www.zillowgroup.com/">Northeastern University</a> under the supervision of Prof. <a href="https://www.zillowgroup.com/">Yun (Raymond) Fu</a>, in 2021. I received my M.S. degree in Electrical Engineering from <a href="https://www.zillowgroup.com/">Xi'an Jiaotong University</a>, China, in 2016. I received my B.S. degree in Electrical Engineering from <a href="https://www.zillowgroup.com/">Harbin Institute of Technology</a>, China, in 2013. My research interests include Machine Learning, Data Mining, Computer Vision, and Image Processing.<br /><br />
 </div>
 
 **For additional information, please see the [CV](https://tonmoy-hossain.github.io/cv/) and [publications](https://tonmoy-hossain.github.io/publications/). Feel free to contact me if you have any questions &#x1F60a;**
