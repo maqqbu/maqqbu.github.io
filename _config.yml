@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qianqian Ma"
+title                    : "Qianqian Ma (马倩倩)"
 title_separator          : "-"
-name                     : &name "Qianqian Ma (马倩倩)"
+name                     : &name "Qianqian Ma"
 description              : &description "personal description"
 url                      : https://maqqbu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,9 +83,9 @@ author:
   name             : "Qianqian Ma"
   avatar           : "qq_img.jpeg"
   # bio              : "Communicating with the data to contribute to the field of Deep Learning and Computer Vision for mankind is my pre-eminent ambition"
-  bio              : #"Computer Vision and Machine Learning (wanglichenxj@gmail.com)"
+  bio              : "Ph.D in ECE department at Boston University"
   location         : "Boston, USA"
-  employer         : "Boston University"
+  employer         : #"Boston University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=qmIm4K4AAAAJ&hl=en"
   DBLP             : 
@@ -104,7 +104,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/qianqian-ma-724a58199/"
   orcid            : #"https://orcid.org/0000-0002-5808-6391"
   pinterest        :
   soundcloud       :
