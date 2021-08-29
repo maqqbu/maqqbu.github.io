@@ -10,9 +10,19 @@ redirect_from:
 
 Welcome to Qianqian Ma's homepage!
 
-<div style="text-align: justify"> 
+<!-- <div style="text-align: justify"> 
 I'm a Phd Candidate in Boston University in <a href="https://www.zillowgroup.com/">Zillow Group</a> since 2021. I received my Ph.D. degree in <a href="https://www.zillowgroup.com/">SMILE Lab</a>, Department of Electrical & Computer Engineering at <a href="https://www.zillowgroup.com/">Northeastern University</a> under the supervision of Prof. <a href="https://www.zillowgroup.com/">Yun (Raymond) Fu</a>, in 2021. I received my M.S. degree in Electrical Engineering from <a href="https://www.zillowgroup.com/">Xi'an Jiaotong University</a>, China, in 2016. I received my B.S. degree in Electrical Engineering from <a href="https://www.zillowgroup.com/">Harbin Institute of Technology</a>, China, in 2013. My research interests include Machine Learning, Data Mining, Computer Vision, and Image Processing.<br /><br />
+</div> -->
+
+<div style="text-align: justify"> 
+Hi, I'm a Ph.D. student in the <a href="https://www.bu.edu/eng/departments/ece/">Department of Electrical and Computer Engineering</a>  at Boston University under the supervision of Prof. <a href="https://sites.bu.edu/aolshevsky/">Alex Olshevsky</a>. I received my M.S. degree in Electrical Engineering from <a href="http://www.hit.edu.cn/">Harbin Institute of Technology (HIT)</a>, China, in 2017. I received my B.S. degree in Electrical Engineering from <a href="http://www.hit.edu.cn/">Harbin Institute of Technology (HIT)</a>, China, in 2014. <br /><br />
 </div>
+
+<div style="text-align: justify"> 
+My research interests include distributed optimization, machine learning and reinforcement learning. <br /><br />
+</div>
+
+
 
 **For additional information, please see the [CV](https://tonmoy-hossain.github.io/cv/) and [publications](https://tonmoy-hossain.github.io/publications/). Feel free to contact me if you have any questions &#x1F60a;**
 

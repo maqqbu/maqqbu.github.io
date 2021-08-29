@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Qianqian Ma"
 title_separator          : "-"
-name                     : &name "Qianqian Ma"
+name                     : &name "Qianqian Ma (马倩倩)"
 description              : &description "personal description"
 url                      : https://maqqbu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,14 +83,14 @@ author:
   name             : "Qianqian Ma"
   avatar           : "qq_img.jpeg"
   # bio              : "Communicating with the data to contribute to the field of Deep Learning and Computer Vision for mankind is my pre-eminent ambition"
-  bio              : "Computer Vision and Machine Learning (wanglichenxj@gmail.com)"
+  bio              : #"Computer Vision and Machine Learning (wanglichenxj@gmail.com)"
   location         : "Boston, USA"
   employer         : "Boston University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=cE25iX4AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=qmIm4K4AAAAJ&hl=en"
   DBLP             : 
   email            : maqq@bu.edu
-  researchgate     : "https://www.researchgate.net/profile/Tonmoy_Hossain2"
+  researchgate     : #"https://www.researchgate.net/profile/Tonmoy_Hossain2"
   uri              :
   bitbucket        :
   codepen          :
@@ -105,7 +105,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-5808-6391"
+  orcid            : #"https://orcid.org/0000-0002-5808-6391"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
