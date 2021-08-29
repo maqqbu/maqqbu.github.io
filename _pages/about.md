@@ -16,7 +16,7 @@ I'm a Phd Candidate in Boston University in <a href="https://www.zillowgroup.com
 
 **For additional information, please see the [CV](https://tonmoy-hossain.github.io/cv/) and [publications](https://tonmoy-hossain.github.io/publications/). Feel free to contact me if you have any questions &#x1F60a;**
 
------------
+<!-- -----------
 
 
 # Activities 
@@ -47,7 +47,7 @@ I'm a Phd Candidate in Boston University in <a href="https://www.zillowgroup.com
 * <span style="color:Blue"> [March 13, 2019] </span> - One [journal paper](https://thesai.org/Downloads/Volume10No3/Paper_68-A_Gender_Neutral_Approach_to_Detect_Early_Alzheimers_Disease.pdf) got accepted to [International Journal of Advanced Computer Science and Applications (IJACSA)](https://thesai.org/Publications/IJACSA/)
 * <span style="color:Blue"> [March 1, 2019] </span> - One [journal paper](https://www.ijser.org/researchpaper/Brain-Tumor-Segmentation-Techniques-on-Medical-Images-A-Review.pdf) got accepted.
 
------------
+----------- -->
 
 
 
