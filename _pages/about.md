@@ -15,7 +15,7 @@ I'm a Phd Candidate in Boston University in <a href="https://www.zillowgroup.com
 </div> -->
 
 <div style="text-align: justify"> 
-Hi, I'm a Ph.D. student in the <a href="https://www.bu.edu/eng/departments/ece/">Department of Electrical and Computer Engineering</a>  at Boston University under the supervision of Prof. <a href="https://sites.bu.edu/aolshevsky/">Alex Olshevsky</a>. I received my M.S. degree in Electrical Engineering from <a href="http://www.hit.edu.cn/">Harbin Institute of Technology (HIT)</a>, China, in 2017. I received my B.S. degree in Electrical Engineering from <a href="http://www.hit.edu.cn/">Harbin Institute of Technology (HIT)</a>, China, in 2014. <br /><br />
+Hi, I'm a Ph.D. student in the <a href="https://www.bu.edu/eng/departments/ece/">Department of Electrical and Computer Engineering</a>  at Boston University. My advisor is Prof. <a href="https://sites.bu.edu/aolshevsky/">Alex Olshevsky</a>. I received my M.S. degree in Electrical Engineering from <a href="http://www.hit.edu.cn/">Harbin Institute of Technology (HIT)</a>, China, in 2017. I received my B.S. degree in Electrical Engineering from <a href="http://www.hit.edu.cn/">Harbin Institute of Technology (HIT)</a>, China, in 2014. <br /><br />
 </div>
 
 <div style="text-align: justify"> 
@@ -24,7 +24,7 @@ My research interests include distributed optimization, machine learning and rei
 
 
 
-**For additional information, please see the [CV](https://tonmoy-hossain.github.io/cv/) and [publications](https://tonmoy-hossain.github.io/publications/). Feel free to contact me if you have any questions &#x1F60a;**
+**Feel free to contact me if you have any questions! &#x1F60a;**
 
 <!-- -----------
 
