@@ -24,7 +24,7 @@ My research interests include distributed optimization, machine learning and rei
 
 
 
-**Feel free to contact me if you have any questions! &#x1F60a;**
+**My CV can be found [here](https://github.com/maqqbu/self_file/blob/master/files/CV_2020.pdf). Feel free to contact me if you have any questions! &#x1F60a;**
 
 <!-- -----------
 
