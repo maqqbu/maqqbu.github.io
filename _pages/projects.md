@@ -6,6 +6,53 @@ author_profile: true
 ---
 |<img src='ICDM21_NLP.jpg' align='right' style=' width:400px;height:200px'/> | **Aspect-based Sentiment Classification via Reinforcement Learning** <br> **Lichen Wang**, Bo Zong, Yunyu Liu, Can Qin, Wei Cheng, Wenchao Yu, Xuchao Zhang, Haifeng Chen, Yun Fu<br> <i>IEEE International Conference on Data Mining (ICDM) 2021. </i> PDF GitHub <br> Current adversarial adaptation methods attempt to align the cross-domain features, whereas two challenges remain unsolved: 1) the conditional distribution mismatch and 2) the bias of the decision boundary towards the source domain. To solve these challenges, we propose a novel framework for semi-supervised domain adaptation by unifying the learning of opposite structures (UODA). UODA consists of a generator and two classifiers (i.e., the source-scattering classifier and the target-clustering classifier), which are trained for contradictory purposes. The target-clustering classifier attempts to cluster the target features to improve intra-class density and enlarge inter-class divergence. Meanwhile, the source-scattering classifier is designed to scatter the source features to enhance the decision boundary's smoothness. Through the alternation of source-feature expansion and target-feature clustering procedures, the target features are well-enclosed within the dilated boundary of the corresponding source features. This strategy can make the cross-domain features to be precisely aligned against the source bias simultaneously. Moreover, to overcome the model collapse through training, we progressively update the measurement of feature's distance and their representation via an adversarial training paradigm. Extensive experiments on the benchmarks of DomainNet and Office-home datasets demonstrate the superiority of our approach over the state-of-the-art methods.| 
 
+</style>
+@media (max-width: 768px) {
+  .pubt {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .pubd {
+    text-align: justify;
+  }
+}
+.pubd {  
+  font-size: 18px;
+  font-weight: 300;
+}
+.pubimg {
+  text-align: center;
+}
+.pubimg img {
+  max-width: 100%;
+}
+.puba {
+  font-size: 18px;
+  color: #900;
+}
+.pubv {
+  color: #090;
+  font-size: 16px;
+}
+.publ {
+  padding-top: 10px;
+}
+.publ li {
+  border: 1px solid #CCC;
+  padding: 5px;
+  margin: 5px 2px;
+  display: inline-block;
+}
+.pubwrap {
+  padding-bottom: 20px;
+  margin-bottom: 50px;
+  border-bottom: 1px solid #DDD;
+}
+.pub {
+}
+</style>
+
 
 <div class="pubwrap">
   <div class="row">
