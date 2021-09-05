@@ -7,45 +7,29 @@ author_profile: true
 |<img src='ICDM21_NLP.jpg' align='right' style=' width:400px;height:200px'/> | **Aspect-based Sentiment Classification via Reinforcement Learning** <br> **Lichen Wang**, Bo Zong, Yunyu Liu, Can Qin, Wei Cheng, Wenchao Yu, Xuchao Zhang, Haifeng Chen, Yun Fu<br> <i>IEEE International Conference on Data Mining (ICDM) 2021. </i> PDF GitHub <br> Current adversarial adaptation methods attempt to align the cross-domain features, whereas two challenges remain unsolved: 1) the conditional distribution mismatch and 2) the bias of the decision boundary towards the source domain. To solve these challenges, we propose a novel framework for semi-supervised domain adaptation by unifying the learning of opposite structures (UODA). UODA consists of a generator and two classifiers (i.e., the source-scattering classifier and the target-clustering classifier), which are trained for contradictory purposes. The target-clustering classifier attempts to cluster the target features to improve intra-class density and enlarge inter-class divergence. Meanwhile, the source-scattering classifier is designed to scatter the source features to enhance the decision boundary's smoothness. Through the alternation of source-feature expansion and target-feature clustering procedures, the target features are well-enclosed within the dilated boundary of the corresponding source features. This strategy can make the cross-domain features to be precisely aligned against the source bias simultaneously. Moreover, to overcome the model collapse through training, we progressively update the measurement of feature's distance and their representation via an adversarial training paradigm. Extensive experiments on the benchmarks of DomainNet and Office-home datasets demonstrate the superiority of our approach over the state-of-the-art methods.| 
 
 
+<head>
+<style>
+img {
+  float: left;
+}
+</style>
+</head>
+<body>
+
+<h2>Float Left</h2>
+
+<p>In this example, the image will float to the left in the paragraph, and the text in the paragraph will wrap around the image.</p>
+
+<p><img src="ICDM21_NLP.jpg" alt="Pineapple" style="width:170px;height:170px;margin-right:15px;">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit.</p>
+
+</body>
+
 
 <p><img src="ICDM21_NLP.jpg" alt="Pineapple" style="width:300px;height:100px;margin-right:15px;">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit.</p>
 
 
-
-<!--  -->
-    <div class="pubwrap">
-      <div class="row">
-        <div class="col-md-5">
-			<div class="pubimg"><img src="ICDM21_NLP.jpg"></div>
-        </div>
-        <div class="col-md-7">
-			<div class="pub">
-			<div class="pubt"> Distributed Variational Bayesian Algorithms over Sensor Networks</div>
-			<div class="puba">Junhao Hua, Chunguang Li</div>
-			<div class="pubv">IEEE Transactions on Signal Processing (<b>TSP</b>, <b>SCI-TOP</b>), vol.64, no.3, pp.783-798, Feb. 2016. </div>			
-			<div class="pubd">
-			We propose two novel distributed VB algorithms for general Bayesian inference problem, 
-			which can be applied to a very general class of conjugate-exponential models. 
-			In the first approach, the global natural parameters at each node are optimized using 
-			a stochastic natural gradient that utilizes the Riemannian geometry of the approximation space, 
-			followed by an information diffusion step for cooperation with the neighbors. 
-			In the second method, a constrained optimization formulation for distributed estimation is established
-			in natural parameter space and solved by ADMM. An application of the distributed inference/estimation 
-			of a Bayesian Gaussian mixture model is then presented, to evaluate the effectiveness of the proposed algorithms.
-			</div>
-			<div class="publ">
-			  <ul>
-<!-- 			    <li><a href="./papers/dvb_hua2016tsp.pdf">PDF</a></li>
-			    <li><a href="https://github.com/huajh/dVB">Code</a></li>
-				<li><a href="#">Blog Post</a></li>
-			    <li><a href="#">Supplemental</a></li> -->	
-			  </ul>
-			</div>
-			</div>
-		</div>
-      </div>
-    </div>   
 <!--  -->
 
 <!-- ## Ongoing Projects
