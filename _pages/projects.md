@@ -4,8 +4,9 @@ title: ""
 permalink: /projects/
 author_profile: true
 ---
+|<img src='ICDM21_NLP.jpg' align='right' style=' width:300px;height:100px'/> | **Aspect-based Sentiment Classification via Reinforcement Learning** <br> **Lichen Wang**, Bo Zong, Yunyu Liu, Can Qin, Wei Cheng, Wenchao Yu, Xuchao Zhang, Haifeng Chen, Yun Fu<br> <i>IEEE International Conference on Data Mining (ICDM) 2021. </i> <br>PDF GitHub|
 
-## Ongoing Projects
+<!-- ## Ongoing Projects
 ----------------
 
 ### [2020 - *Current*]
@@ -40,4 +41,4 @@ author_profile: true
 * Student Management System (*Language: Java in NeatBeans IDE*).
 * UFO Destruction: Save the City (*Language: C and iGraphics.h*).
 
-__________________________________________________
+__________________________________________________ -->
