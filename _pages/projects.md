@@ -11,6 +11,43 @@ author_profile: true
 <p><img src="ICDM21_NLP.jpg" alt="Pineapple" style="width:300px;height:100px;margin-right:15px;">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit.</p>
 
+
+
+<!--  -->
+    <div class="pubwrap">
+      <div class="row">
+        <div class="col-md-5">
+			<div class="pubimg"><img src="ICDM21_NLP.jpg"></div>
+        </div>
+        <div class="col-md-7">
+			<div class="pub">
+			<div class="pubt"> Distributed Variational Bayesian Algorithms over Sensor Networks</div>
+			<div class="puba">Junhao Hua, Chunguang Li</div>
+			<div class="pubv">IEEE Transactions on Signal Processing (<b>TSP</b>, <b>SCI-TOP</b>), vol.64, no.3, pp.783-798, Feb. 2016. </div>			
+			<div class="pubd">
+			We propose two novel distributed VB algorithms for general Bayesian inference problem, 
+			which can be applied to a very general class of conjugate-exponential models. 
+			In the first approach, the global natural parameters at each node are optimized using 
+			a stochastic natural gradient that utilizes the Riemannian geometry of the approximation space, 
+			followed by an information diffusion step for cooperation with the neighbors. 
+			In the second method, a constrained optimization formulation for distributed estimation is established
+			in natural parameter space and solved by ADMM. An application of the distributed inference/estimation 
+			of a Bayesian Gaussian mixture model is then presented, to evaluate the effectiveness of the proposed algorithms.
+			</div>
+			<div class="publ">
+			  <ul>
+<!-- 			    <li><a href="./papers/dvb_hua2016tsp.pdf">PDF</a></li>
+			    <li><a href="https://github.com/huajh/dVB">Code</a></li>
+				<li><a href="#">Blog Post</a></li>
+			    <li><a href="#">Supplemental</a></li> -->	
+			  </ul>
+			</div>
+			</div>
+		</div>
+      </div>
+    </div>   
+<!--  -->
+
 <!-- ## Ongoing Projects
 ----------------
 
