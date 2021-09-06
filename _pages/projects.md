@@ -5,9 +5,10 @@ permalink: /projects/
 author_profile: true
 ---
 
-|<img src='ICDM21_NLP.jpg' align='right' style=' width:400px;height:400px'/> | **Aspect-based Sentiment Classification via Reinforcement Learning** <br> **Lichen Wang**, Bo Zong, Yunyu Liu, Can Qin, Wei Cheng, Wenchao Yu, Xuchao Zhang, Haifeng Chen, Yun Fu<br> <i>IEEE International Conference on Data Mining (ICDM) 2021. </i> PDF GitHub <br> Current adversarial adaptation methods attempt to align the cross-domain features, whereas two challenges remain unsolved: 1) the conditional distribution mismatch and 2) the bias of the decision boundary towards the source domain. To solve these challenges, we propose a novel framework for semi-supervised domain adaptation by unifying the learning of opposite structures (UODA). UODA consists of a generator and two classifiers (i.e., the source-scattering classifier and the target-clustering classifier), which are trained for contradictory purposes. The target-clustering classifier attempts to cluster the target features to improve intra-class density and enlarge inter-class divergence. Meanwhile, the source-scattering classifier is designed to scatter the source features to enhance the decision boundary's smoothness. Through the alternation of source-feature expansion and target-feature clustering procedures, the target features are well-enclosed within the dilated boundary of the corresponding source features. This strategy can make the cross-domain features to be precisely aligned against the source bias simultaneously. Moreover, to overcome the model collapse through training, we progressively update the measurement of feature's distance and their representation via an adversarial training paradigm. Extensive experiments on the benchmarks of DomainNet and Office-home datasets demonstrate the superiority of our approach over the state-of-the-art methods.| 
+|<img src='ICDM21_NLP.jpg' align='right' style=' width:400px;height:400px'/> | **Aspect-based Sentiment Classification via Reinforcement Learning** <br> **Lichen Wang**, Bo Zong, Yunyu Liu, Can Qin, Wei Cheng, Wenchao Yu, Xuchao Zhang, Haifeng Chen, Yun Fu<br> <i>IEEE International Conference on Data Mining (ICDM) 2021. </i> PDF GitHub <br> Current adversarial adaptation methods attempt to align the cross-domain features, whereas two challenges remain unsolved: 1) the conditional distribution mismatch and 2) the bias of the decision boundary towards the source domain. To solve these challenges, we propose a novel framework for semi-supervised domain adaptation by unifying the learning of opposite structures (UODA). UODA consists of a generator and two classifiers (i.e., the source-scattering classifier and the target-clustering classifier), which are trained for contradictory purposes. The target-clustering classifier attempts to cluster the target features to improve intra-class density and enlarge inter-class divergence. Meanwhile, the source-scattering classifier is designed to scatter the source features to enhance the decision boundary's smoothness. Through the alternation of source-feature expansion and target-feature clustering procedures, the target features are well-enclosed within the dilated boundary of the corresponding source features. This strategy can make the cross-domain features to be precisely aligned against the source bias simultaneously. Moreover, to overcome the model collapse through training, we progressively update the measurement of feature's distance and their representation via an adversarial training paradigm. Extensive experiments on the benchmarks of DomainNet and Office-home datasets demonstrate the superiority of our approach over| 
 
-<!-- <style>
+
+<style>
 .pubt {
   font-size: 22px;
   font-weight:400;
@@ -60,30 +61,121 @@ author_profile: true
 </style>
 
 
-<div class="pubwrap">
-  <div class="row">
-    <div class="col-md-5">
-		<div class="pubimg"><img src="dmtl-paper.jpg"></div>
+<style>
+.pubt {
+  font-size: 22px;
+  font-weight:400;
+  color: #000;
+}
+@media (max-width: 768px) {
+  .pubt {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .pubd {
+    text-align: justify;
+  }
+}
+.pubd {  
+  font-size: 18px;
+  font-weight: 300;
+}
+.pubimg {
+  text-align: center;
+}
+.pubimg img {
+  max-width: 100%;
+}
+.puba {
+  font-size: 18px;
+  color: #900;
+}
+.pubv {
+  color: #090;
+  font-size: 16px;
+}
+.publ {
+  padding-top: 10px;
+}
+.publ li {
+  border: 1px solid #CCC;
+  padding: 5px;
+  margin: 5px 2px;
+  display: inline-block;
+}
+.pubwrap {
+  padding-bottom: 20px;
+  margin-bottom: 50px;
+  border-bottom: 1px solid #DDD;
+}
+.pub {
+}
+</style>
+
+-----------
+  <div class="pubwrap">
+    <div class="row">
+      <div class="col-md-5">
+    <div class="pubimg"><img src="dmtl-paper.jpg"></div>
+      </div>
+      <div class="col-md-7">
+    <div class="pub">
+    <div class="pubt"> Distributed Variational Bayesian Algorithms over Sensor Networks</div>
+    <div class="puba">Junhao Hua, Chunguang Li</div>
+    <div class="pubv">IEEE Transactions on Signal Processing (<b>TSP</b>, <b>SCI-TOP</b>), vol.64, no.3, pp.783-798, Feb. 2016. </div>      
+    <div class="pubd">
+    We propose two novel distributed VB algorithms for general Bayesian inference problem, 
+    which can be applied to a very general class of conjugate-exponential models. 
+    In the first approach, the global natural parameters at each node are optimized using 
+    a stochastic natural gradient that utilizes the Riemannian geometry of the approximation space, 
+    followed by an information diffusion step for cooperation with the neighbors. 
+    In the second method, a constrained optimization formulation for distributed estimation is established
+    in natural parameter space and solved by ADMM. An application of the distributed inference/estimation 
+    of a Bayesian Gaussian mixture model is then presented, to evaluate the effectiveness of the proposed algorithms.
     </div>
-    <div class="col-md-7">
-		<div class="pub">
-		<div class="pubt"> Distributed Variational Bayesian Algorithms over Sensor Networks</div>
-		<div class="puba">Junhao Hua, Chunguang Li</div>
-		<div class="pubv">IEEE Transactions on Signal Processing (<b>TSP</b>, <b>SCI-TOP</b>), vol.64, no.3, pp.783-798, Feb. 2016. </div>			
-		<div class="pubd">
-		We propose two novel distributed VB algorithms for general Bayesian inference problem, 
-		which can be applied to a very general class of conjugate-exponential models. 
-		In the first approach, the global natural parameters at each node are optimized using 
-		a stochastic natural gradient that utilizes the Riemannian geometry of the approximation space, 
-		followed by an information diffusion step for cooperation with the neighbors. 
-		In the second method, a constrained optimization formulation for distributed estimation is established
-		in natural parameter space and solved by ADMM. An application of the distributed inference/estimation 
-		of a Bayesian Gaussian mixture model is then presented, to evaluate the effectiveness of the proposed algorithms.
-		</div>
-		<div class="publ">
-		  <ul>
-< -->
-<!--  -->
+    <div class="publ">
+      <ul>
+        <li><a href="./papers/dvb_hua2016tsp.pdf">PDF</a></li>
+        <li><a href="https://github.com/huajh/dVB">Code</a></li>
+      <li><a href="#">Blog Post</a></li>
+        <li><a href="#">Supplemental</a></li> 
+      </ul>
+    </div>
+    </div>
+  </div>
+    </div>
+  </div>   
+  -----------
+
+
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+  <div class="container">
+  <h1>Grid</h1>
+  <p>This example demonstrates a 50%/50% split on small, medium and large devices. On extra small devices, it will stack (100% width).</p>      
+  <p>Resize the browser window to see the effect.</p>      
+  <div class="row">
+    <div class="col-sm-6" style="background-color:yellow;">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>
+      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    </div>
+    <div class="col-sm-6" style="background-color:pink;">
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.    
+    </div>
+  </div>
+</div>
+</body>
+
+
 
 <!-- ## Ongoing Projects
 ----------------
@@ -120,4 +212,4 @@ author_profile: true
 * Student Management System (*Language: Java in NeatBeans IDE*).
 * UFO Destruction: Save the City (*Language: C and iGraphics.h*).
 
-__________________________________________________ -->
+__________________________________________________ --> -->

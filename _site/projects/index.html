@@ -157,9 +157,6 @@
             
             <li class="masthead__menu-item"><a href="http://localhost:4000/education-awards/">Awards & Academic Services</a></li>
           
-            
-            <li class="masthead__menu-item"><a href="http://localhost:4000/cv/">CV</a></li>
-          
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
@@ -250,47 +247,217 @@
     
       <h1 class="page__title"></h1>
     
-    <h2 id="ongoing-projects">Ongoing Projects</h2>
+    <table>
+  <tbody>
+    <tr>
+      <td><img src="ICDM21_NLP.jpg" align="right" style=" width:400px;height:400px" /></td>
+      <td><strong>Aspect-based Sentiment Classification via Reinforcement Learning</strong> <br /> <strong>Lichen Wang</strong>, Bo Zong, Yunyu Liu, Can Qin, Wei Cheng, Wenchao Yu, Xuchao Zhang, Haifeng Chen, Yun Fu<br /> <i>IEEE International Conference on Data Mining (ICDM) 2021. </i> PDF GitHub <br /> Current adversarial adaptation methods attempt to align the cross-domain features, whereas two challenges remain unsolved: 1) the conditional distribution mismatch and 2) the bias of the decision boundary towards the source domain. To solve these challenges, we propose a novel framework for semi-supervised domain adaptation by unifying the learning of opposite structures (UODA). UODA consists of a generator and two classifiers (i.e., the source-scattering classifier and the target-clustering classifier), which are trained for contradictory purposes. The target-clustering classifier attempts to cluster the target features to improve intra-class density and enlarge inter-class divergence. Meanwhile, the source-scattering classifier is designed to scatter the source features to enhance the decision boundary’s smoothness. Through the alternation of source-feature expansion and target-feature clustering procedures, the target features are well-enclosed within the dilated boundary of the corresponding source features. This strategy can make the cross-domain features to be precisely aligned against the source bias simultaneously. Moreover, to overcome the model collapse through training, we progressively update the measurement of feature’s distance and their representation via an adversarial training paradigm. Extensive experiments on the benchmarks of DomainNet and Office-home datasets demonstrate the superiority of our approach over</td>
+    </tr>
+  </tbody>
+</table>
+
+<style>
+.pubt {
+  font-size: 22px;
+  font-weight:400;
+  color: #000;
+}
+@media (max-width: 768px) {
+  .pubt {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .pubd {
+    text-align: justify;
+  }
+}
+.pubd {  
+  font-size: 18px;
+  font-weight: 300;
+}
+.pubimg {
+  text-align: center;
+}
+.pubimg img {
+  max-width: 100%;
+}
+.puba {
+  font-size: 18px;
+  color: #900;
+}
+.pubv {
+  color: #090;
+  font-size: 16px;
+}
+.publ {
+  padding-top: 10px;
+}
+.publ li {
+  border: 1px solid #CCC;
+  padding: 5px;
+  margin: 5px 2px;
+  display: inline-block;
+}
+.pubwrap {
+  padding-bottom: 20px;
+  margin-bottom: 50px;
+  border-bottom: 1px solid #DDD;
+}
+.pub {
+}
+</style>
+
+<style>
+.pubt {
+  font-size: 22px;
+  font-weight:400;
+  color: #000;
+}
+@media (max-width: 768px) {
+  .pubt {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .pubd {
+    text-align: justify;
+  }
+}
+.pubd {  
+  font-size: 18px;
+  font-weight: 300;
+}
+.pubimg {
+  text-align: center;
+}
+.pubimg img {
+  max-width: 100%;
+}
+.puba {
+  font-size: 18px;
+  color: #900;
+}
+.pubv {
+  color: #090;
+  font-size: 16px;
+}
+.publ {
+  padding-top: 10px;
+}
+.publ li {
+  border: 1px solid #CCC;
+  padding: 5px;
+  margin: 5px 2px;
+  display: inline-block;
+}
+.pubwrap {
+  padding-bottom: 20px;
+  margin-bottom: 50px;
+  border-bottom: 1px solid #DDD;
+}
+.pub {
+}
+</style>
+
+<hr />
+<div class="pubwrap">
+    <div class="row">
+      <div class="col-md-5">
+    <div class="pubimg"><img src="dmtl-paper.jpg" /></div>
+      </div>
+      <div class="col-md-7">
+    <div class="pub">
+    <div class="pubt"> Distributed Variational Bayesian Algorithms over Sensor Networks</div>
+    <div class="puba">Junhao Hua, Chunguang Li</div>
+    <div class="pubv">IEEE Transactions on Signal Processing (<b>TSP</b>, <b>SCI-TOP</b>), vol.64, no.3, pp.783-798, Feb. 2016. </div>      
+    <div class="pubd">
+    We propose two novel distributed VB algorithms for general Bayesian inference problem, 
+    which can be applied to a very general class of conjugate-exponential models. 
+    In the first approach, the global natural parameters at each node are optimized using 
+    a stochastic natural gradient that utilizes the Riemannian geometry of the approximation space, 
+    followed by an information diffusion step for cooperation with the neighbors. 
+    In the second method, a constrained optimization formulation for distributed estimation is established
+    in natural parameter space and solved by ADMM. An application of the distributed inference/estimation 
+    of a Bayesian Gaussian mixture model is then presented, to evaluate the effectiveness of the proposed algorithms.
+    </div>
+    <div class="publ">
+      <ul>
+        <li><a href="./papers/dvb_hua2016tsp.pdf">PDF</a></li>
+        <li><a href="https://github.com/huajh/dVB">Code</a></li>
+      <li><a href="#">Blog Post</a></li>
+        <li><a href="#">Supplemental</a></li> 
+      </ul>
+    </div>
+    </div>
+  </div>
+    </div>
+  </div>
 <hr />
 
-<h3 id="2020---current">[2020 - <em>Current</em>]</h3>
-<hr />
-<ul>
-  <li>Skeleton-based Human Action Recognition.</li>
-  <li>Automated COVID-19 Detection: A HRNet Approach</li>
-  <li>Early Parkinson’s Disease Prediction.</li>
-  <li>Automatic Video Captioning System.</li>
-  <li>Cardless transaction system.</li>
-</ul>
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
 
-<h3 id="2019---2020">[2019 - 2020]</h3>
-<hr />
-<ul>
-  <li>Artificial Prognosis of Cardiac Disease: A Data-scientific Approach in Outlier Handling.</li>
-  <li>Bangla Sign Digit Classification.</li>
-  <li>Alzheimer’s Disease Detection applying Neural Network.</li>
-</ul>
+<body>
+  <div class="container">
+  <h1>Grid</h1>
+  <p>This example demonstrates a 50%/50% split on small, medium and large devices. On extra small devices, it will stack (100% width).</p>      
+  <p>Resize the browser window to see the effect.</p>      
+  <div class="row">
+    <div class="col-sm-6" style="background-color:yellow;">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br />
+      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    </div>
+    <div class="col-sm-6" style="background-color:pink;">
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.    
+    </div>
+  </div>
+</div>
+</body>
 
-<h2 id="undergraduate-course-projects-2015-2019">Undergraduate Course Projects [2015-2019]</h2>
-<hr />
-<ul>
-  <li>Optimal Location Recommendation for a Food Restaurant using Hybridized K-Means Clustering algorithm.</li>
-  <li>Extraction of text from Images using Optical Character Recognition algorithm.</li>
-  <li>Segmentation of Brain Tumor using Image Processing Techniques.</li>
-  <li>A website to draw 2D and 3D object and implementation of transformation algorithm to visualize data. (<em>WebGL, C++</em>)</li>
-  <li>Melitus Detector: A dynamic website to detect Diabetes and Medication System.</li>
-  <li>Diabetes Prediction using Data Mining Algorithm (<em>Jupyter Notebook with excellent GUI</em>).</li>
-  <li>Implementation of query processing and optimization algorithms in a management software.</li>
-  <li>Line Follower and blockage prevention Robot (<em>Arduino</em>).</li>
-  <li>A dynamic website using MVC to manage product and stock repository (<em>MVC Framework, MySQL, Visual Basic</em>).</li>
-  <li>Case Study: Implementing shortest path and route based protocol on Bus Management System</li>
-  <li>Super Shop Management System (<em>PHP, MySQL, Visual Basic</em>).</li>
-  <li>A Scientific Mathematical Calculator(<em>Android Studio</em>).</li>
-  <li>Student Management System (<em>Language: Java in NeatBeans IDE</em>).</li>
-  <li>UFO Destruction: Save the City (<em>Language: C and iGraphics.h</em>).</li>
-</ul>
+<!-- ## Ongoing Projects
+----------------
 
-<hr />
+### [2020 - *Current*]
+-----------
+* Skeleton-based Human Action Recognition.
+* Automated COVID-19 Detection: A HRNet Approach
+* Early Parkinson's Disease Prediction.
+* Automatic Video Captioning System.
+* Cardless transaction system.
+
+
+### [2019 - 2020]
+-----------
+* Artificial Prognosis of Cardiac Disease: A Data-scientific Approach in Outlier Handling.
+* Bangla Sign Digit Classification.
+* Alzheimer's Disease Detection applying Neural Network.
+
+## Undergraduate Course Projects [2015-2019]
+----------------
+* Optimal Location Recommendation for a Food Restaurant using Hybridized K-Means Clustering algorithm.
+* Extraction of text from Images using Optical Character Recognition algorithm.
+* Segmentation of Brain Tumor using Image Processing Techniques.
+* A website to draw 2D and 3D object and implementation of transformation algorithm to visualize data. (*WebGL, C++*)
+* Melitus Detector: A dynamic website to detect Diabetes and Medication System.
+* Diabetes Prediction using Data Mining Algorithm (*Jupyter Notebook with excellent GUI*).
+* Implementation of query processing and optimization algorithms in a management software.
+* Line Follower and blockage prevention Robot (*Arduino*).
+* A dynamic website using MVC to manage product and stock repository (*MVC Framework, MySQL, Visual Basic*).
+* Case Study: Implementing shortest path and route based protocol on Bus Management System  
+* Super Shop Management System (*PHP, MySQL, Visual Basic*).
+* A Scientific Mathematical Calculator(*Android Studio*).
+* Student Management System (*Language: Java in NeatBeans IDE*).
+* UFO Destruction: Save the City (*Language: C and iGraphics.h*).
+
+__________________________________________________ -->
+<p>–&gt;</p>
 
   </div>
 </div>
