@@ -4,62 +4,19 @@ title: ""
 permalink: /projects/
 author_profile: true
 ---
-
-|<img src='ICDM21_NLP.jpg' align='right' style=' width:400px;height:400px'/> | **Aspect-based Sentiment Classification via Reinforcement Learning** <br> **Lichen Wang**, Bo Zong, Yunyu Liu, Can Qin, Wei Cheng, Wenchao Yu, Xuchao Zhang, Haifeng Chen, Yun Fu<br> <i>IEEE International Conference on Data Mining (ICDM) 2021. </i> PDF GitHub <br> Current adversarial adaptation methods attempt to align the cross-domain features, whereas two challenges remain unsolved: 1) the conditional distribution mismatch and 2) the bias of the decision boundary towards the source domain. To solve these challenges, we propose a novel framework for semi-supervised domain adaptation by unifying the learning of opposite structures (UODA). UODA consists of a generator and two classifiers (i.e., the source-scattering classifier and the target-clustering classifier), which are trained for contradictory purposes. The target-clustering classifier attempts to cluster the target features to improve intra-class density and enlarge inter-class divergence. Meanwhile, the source-scattering classifier is designed to scatter the source features to enhance the decision boundary's smoothness. Through the alternation of source-feature expansion and target-feature clustering procedures, the target features are well-enclosed within the dilated boundary of the corresponding source features. This strategy can make the cross-domain features to be precisely aligned against the source bias simultaneously. Moreover, to overcome the model collapse through training, we progressively update the measurement of feature's distance and their representation via an adversarial training paradigm. Extensive experiments on the benchmarks of DomainNet and Office-home datasets demonstrate the superiority of our approach over| 
-
-
-<style>
-.pubt {
-  font-size: 22px;
-  font-weight:400;
-  color: #000;
-}
-@media (max-width: 768px) {
-  .pubt {
-    text-align: center;
-    margin-top: 10px;
-    margin-bottom: 10px;
-  }
-  .pubd {
-    text-align: justify;
-  }
-}
-.pubd {  
-  font-size: 18px;
-  font-weight: 300;
-}
-.pubimg {
-  text-align: center;
-}
-.pubimg img {
-  max-width: 100%;
-}
-.puba {
-  font-size: 18px;
-  color: #900;
-}
-.pubv {
-  color: #090;
-  font-size: 16px;
-}
-.publ {
-  padding-top: 10px;
-}
-.publ li {
-  border: 1px solid #CCC;
-  padding: 5px;
-  margin: 5px 2px;
-  display: inline-block;
-}
-.pubwrap {
-  padding-bottom: 20px;
-  margin-bottom: 50px;
-  border-bottom: 1px solid #DDD;
-}
-.pub {
-}
-</style>
-
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Junhao Hua Academic Website</title>
+  <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css"> 
+  <link href="css/style.css" rel="stylesheet">
+  <link href="css/css" rel="stylesheet" type="text/css">
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <link rel="bookmark" href="/favicon.ico" type="image/x-icon"/>
+</head>
 
 <style>
 .pubt {
@@ -112,12 +69,92 @@ author_profile: true
 .pub {
 }
 </style>
+
+
+<style>
+.pubt {
+  font-size: 22px;
+  font-weight:400;
+  color: #000;
+}
+@media (max-width: 768px) {
+  .pubt {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .pubd {
+    text-align: justify;
+  }
+}
+.pubd {  
+  font-size: 18px;
+  font-weight: 300;
+}
+.pubimg {
+    height: 100%;
+
+
+  display: flex;
+
+
+  align-items: center;
+
+
+  justify-content: center;
+}
+.pubimg img {
+  max-width: 100%;
+}
+.puba {
+  font-size: 18px;
+  color: #900;
+}
+.pubv {
+  color: #090;
+  font-size: 16px;
+}
+.publ {
+  padding-top: 5px;
+}
+.publ li {
+  border: 1px solid #CCC;
+  padding: 5px;
+  margin: 5px 2px;
+  display: inline-block;
+}
+.pubwrap {
+  padding-bottom: 20px;
+  margin-bottom: 50px;
+  border-bottom: 1px solid #DDD;
+}
+.pub {
+}
+.center {
+
+
+  position: absolute;
+
+
+  left: 50%;
+
+
+  top: 50%;
+
+
+  transform: translate(-50%, -50%);
+
+
+}
+</style>
+
+
 
 -----------
   <div class="pubwrap">
     <div class="row">
       <div class="col-md-5">
-    <div class="pubimg"><img src="dmtl-paper.jpg"></div>
+    <div class="pubimg"><img src="dmtl-paper.jpg" align='right'></div>
       </div>
       <div class="col-md-7">
     <div class="pub">
@@ -136,10 +173,8 @@ author_profile: true
     </div>
     <div class="publ">
       <ul>
-        <li><a href="./papers/dvb_hua2016tsp.pdf">PDF</a></li>
+        <li><a href="https://www.bootstrapcdn.com/">paper</a></li>
         <li><a href="https://github.com/huajh/dVB">Code</a></li>
-      <li><a href="#">Blog Post</a></li>
-        <li><a href="#">Supplemental</a></li> 
       </ul>
     </div>
     </div>
@@ -149,14 +184,7 @@ author_profile: true
   -----------
 
 
-<head>
-  <title>Bootstrap Example</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-</head>
+
 
 <body>
   <div class="container">
