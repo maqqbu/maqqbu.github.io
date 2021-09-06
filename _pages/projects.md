@@ -82,32 +82,7 @@ author_profile: true
 		</div>
 		<div class="publ">
 		  <ul>
-<!-- 		    <li><a href="./papers/dvb_hua2016tsp.pdf">PDF</a></li>
-		    <li><a href="https://github.com/huajh/dVB">Code</a></li>
-			<li><a href="#">Blog Post</a></li>
-		    <li><a href="#">Supplemental</a></li>	 -->
-		  </ul>
-		</div>
-		</div>
-	</div>
-  </div>
-</div>   
-
-
-
-<div class="container-fluid"> <!-- If Needed Left and Right Padding in 'md' and 'lg' screen means use container class -->
-            <div class="row">
-                <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
-                    <a href="#">About</a>
-                </div>
-                <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
-                    <img src="image.png" />
-                </div>
-                <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
-                    <a href="#myModal1" data-toggle="modal">SHARE</a>
-                </div>
-            </div>
-        </div> -->
+< -->
 <!--  -->
 
 <!-- ## Ongoing Projects
