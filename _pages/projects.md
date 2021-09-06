@@ -148,60 +148,95 @@ author_profile: true
 }
 </style>
 
-
-
------------
-  <div class="pubwrap">
-    <div class="row">
-      <div class="col-md-5">
-    <div class="pubimg"><img src="dmtl-paper.jpg" align='right'></div>
-      </div>
-      <div class="col-md-7">
-    <div class="pub">
-    <div class="pubt"> Distributed Variational Bayesian Algorithms over Sensor Networks</div>
-    <div class="puba">Junhao Hua, Chunguang Li</div>
-    <div class="pubv">IEEE Transactions on Signal Processing (<b>TSP</b>, <b>SCI-TOP</b>), vol.64, no.3, pp.783-798, Feb. 2016. </div>      
-    <div class="pubd">
-    We propose two novel distributed VB algorithms for general Bayesian inference problem, 
-    which can be applied to a very general class of conjugate-exponential models. 
-    In the first approach, the global natural parameters at each node are optimized using 
-    a stochastic natural gradient that utilizes the Riemannian geometry of the approximation space, 
-    followed by an information diffusion step for cooperation with the neighbors. 
-    In the second method, a constrained optimization formulation for distributed estimation is established
-    in natural parameter space and solved by ADMM. An application of the distributed inference/estimation 
-    of a Bayesian Gaussian mixture model is then presented, to evaluate the effectiveness of the proposed algorithms.
-    </div>
-    <div class="publ">
-      <ul>
-        <li><a href="https://www.bootstrapcdn.com/">paper</a></li>
-        <li><a href="https://github.com/huajh/dVB">Code</a></li>
-      </ul>
-    </div>
-    </div>
-  </div>
-    </div>
-  </div>   
-  -----------
-
-
-
-
-<body>
-  <div class="container">
-  <h1>Grid</h1>
-  <p>This example demonstrates a 50%/50% split on small, medium and large devices. On extra small devices, it will stack (100% width).</p>      
-  <p>Resize the browser window to see the effect.</p>      
+<div class="pubwrap">
   <div class="row">
-    <div class="col-sm-6" style="background-color:yellow;">
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>
-      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  <div class="col-md-5">
+    <div class="pubimg"><img src="multi-room.gif" width="300" 
+     height="300"></div>
     </div>
-    <div class="col-sm-6" style="background-color:pink;">
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.    
+    <div class="col-md-7">
+  <div class="pub">
+  <div class="pubt">Graph-based Impact-driven Exploration for Procedually-generated Environment</div>
+  <div class="puba">Qianqian Ma, Dan Kushnir</div>  <div class="pubv">2021.06-2021.08</div>          
+        <div class="pubd"> Exploration in sparse reward environments remains one of the key challenges of model-free reinforcement learning. We proposed a novel reinforcement learning framework with a new type of intrinsic reward for exploration in sparse environments, especially for procedurally generated environments. We also evaluated the proposed method on multiple challenging procedurally-generated tasks in MiniGrid, achieved SOTA performance.
+        </div>  
+        <div class="publ">
+          <ul>
+          </ul>
+        </div>
+      </div>
     </div>
-  </div>
+    </div>
+</div> 
+
+
+<div class="pubwrap">
+  <div class="row">
+  <div class="col-md-5">
+    <div class="pubimg"><img src="neurips.png" width="450px" 
+     height="500px"></div>
+    </div>
+    <div class="col-md-7">
+  <div class="pub">
+  <div class="pubt">Adversarial Crowdsourcing Through Robust Rank-One Matrix Completion</div>
+  <div class="puba">Qianqian Ma, Alex Olshevsky</div>  <div class="pubv">2019.03-2020.05</div>          
+        <div class="pubd">  We consider the problem of reconstructing a rank-one matrix from a revealed  subset of its entries when some of the revealed entries are corrupted with perturbations that are unknown and can be arbitrarily large.  It is not known which revealed entries are corrupted.  We propose a new algorithm combining alternating minimization with extreme-value filtering and provide sufficient and necessary conditions to recover the original rank-one matrix.  In particular, we show that our proposed algorithm is optimal when the set of revealed entries is given by an Erdos-Renyi random graph. These results are then applied to the problem of classification from crowdsourced data under the assumption that while the majority of the workers are governed by the standard single-coin David-Skene model (i.e., they  output the correct answer with a certain probability),  some of the workers can deviate arbitrarily from this model. In particular, the ``adversarial'' workers could even make decisions designed to make the algorithm output an incorrect answer. Extensive experimental results show our algorithm for this problem, based on  rank-one matrix completion with perturbations, outperforms all other state-of-the-art methods in such an adversarial scenario. <a href="https://arxiv.org/pdf/2010.12181.pdf">[PDF]</a>, <a href="https://github.com/Toloka/crowd-kit/blob/main/src/aggregation/m_msr.py">[code (Python)]</a>, <a href="https://github.com/maqqbu/MMSR">[code (Matlab)]</a>, <a href="https://videos.neurips.cc/category/1977/playlist/211">[video]</a>
+        </div>  
+        <div class="publ">
+          <ul>
+          </ul>
+        </div>
+      </div>
+    </div>
+    </div>
 </div>
-</body>
+
+
+
+<div class="pubwrap">
+  <div class="row">
+  <div class="col-md-5">
+    <div class="pubimg"><img src="lockdown.png" width="450px" 
+     height="500px"></div>
+    </div>
+    <div class="col-md-7">
+  <div class="pub">
+  <div class="pubt">Optimal Lockdown for Pandemic Control</div>
+  <div class="puba">Qianqian Ma, Yang-Yu Liu, Alex Olshevsky</div>  <div class="pubv">2020.06-2020.12</div>          
+        <div class="pubd">  As a common strategy of contagious disease containment, lockdowns will inevitably weaken the economy. The ongoing COVID-19 pandemic underscores the trade-off arising from public health and economic cost. An optimal lockdown policy to resolve this trade-off is highly desired. Here we propose a mathematical framework of pandemic control through an optimal stabilizing non-uniform lockdown, where our goal is to reduce the economic activity as little as possible while decreasing the number of infected individuals at a prescribed rate. This framework allows us to efficiently compute the optimal stabilizing lockdown policy for general epidemic spread models, including both the classical SIS/SIR/SEIR models and a new model of COVID-19 transmissions. We demonstrate the power of this framework by analyzing publicly available data of inter-county travel frequencies to analyze a model of COVID-19 spread in the 62 counties of New York State. We find that an optimal stabilizing lockdown based on epidemic status in April 2020 would have reduced economic activity more stringently outside of New York City compared to within it, even though the epidemic was much more prevalent in New York City at that point. Such a counterintuitive result highlights the intricacies of pandemic control and sheds light on future lockdown policy design. <a href="https://arxiv.org/pdf/2010.12923.pdf}{arXiv:2010.12923">[PDF]</a>
+        </div>  
+        <div class="publ">
+          <ul>
+          </ul>
+        </div>
+      </div>
+    </div>
+    </div>
+</div>
+
+
+
+
+<div class="pubwrap">
+  <div class="row">
+  <div class="col-md-5">
+    <div class="pubimg"><img src="vaccine.jpg" width="450px" 
+     height="500px"></div>
+    </div>
+    <div class="col-md-7">
+  <div class="pub">
+  <div class="pubt">Optimal Stabilizing Vaccine Allocation in A Pandemic</div>
+  <div class="puba">Qianqian Ma, Yang-Yu Liu, Alex Olshevsky</div>  <div class="pubv">2021.01-present</div>          
+        <div class="pubd"> We consider a COVID-19 transmission model over networks and aim to design the optimal stabilizing vaccine allocation policy so that the number of infections drops to zero as soon as possible with a fixed number of vaccine doses. As the population heterogeneity can affect the disease transmission, we also incorporate demographic structures into our model. By fitting the real data in New York State to our model and applying the proposed algorithm, we found that the optimal stabilizing vaccine allocation policy suggests to offer vaccines priority to locations where there are more susceptible people and where the residents spend longer time outside the home. Besides, we found that offering vaccines priority to young adults (20-29) and middle-age adults (20-44) can minimize the cumulative infected cases and the death cases. Moreover, we compared our method with five age-stratified strategies in <a href="https://www.science.org/doi/full/10.1126/science.abe6959">Kate Bubar et al, 2021</a> based on their epidemics model. We also found it's better to offer vaccine priorities to young people to curb the disease and minimize the deaths when the basic reproduction number $R_0$ is moderately above one, which describes the most world during COVID-19.
+        </div>  
+        <div class="publ">
+          <ul>
+          </ul>
+        </div>
+      </div>
+    </div>
+    </div>
+</div> 
 
 
 
@@ -240,4 +275,4 @@ author_profile: true
 * Student Management System (*Language: Java in NeatBeans IDE*).
 * UFO Destruction: Save the City (*Language: C and iGraphics.h*).
 
-__________________________________________________ --> -->
+__________________________________________________ --> 
