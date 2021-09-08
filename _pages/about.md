@@ -22,9 +22,19 @@ Hi, I'm a Ph.D. student in the <a href="https://www.bu.edu/eng/departments/ece/"
 My research interests include distributed optimization, machine learning and reinforcement learning. <br /><br />
 </div>
 
+<!-- <div style="text-align: justify"> 
+I worked as a research intern in Data Science group of Nokia Bell Lab in the summer of 2021. I also worked as a full-time teacher for 1 year time in a senior high school which locates in Yunnan province of china.  <br /><br />
+</div>
+ -->
+
+-----------
+# Working Experience
+* Research Intern in Data Science group of Nokia Bell Lab, Summer 2021 &nbsp; &nbsp; &nbsp; 
+* Teaching Assistant for EC503 Learning from Data, Fall 2018, Spring 2019 &nbsp; &nbsp; &nbsp; 
+* Full-time Teacher at Ninglang No.1 Senior High School of Yunnan Province (a voluntary project of HIT), Jul 2014- Jul 2015 &nbsp; &nbsp; &nbsp; 
 
 
-**My CV can be found [here](https://github.com/maqqbu/self_file/blob/master/files/CV_2020.pdf). Feel free to contact me if you have any questions! &#x1F60a;**
+**Feel free to contact me if you have any questions! &#x1F60a;**
 
 <!-- -----------
 

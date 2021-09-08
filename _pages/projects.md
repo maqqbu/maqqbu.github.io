@@ -220,7 +220,7 @@ author_profile: true
 <div class="pubwrap">
   <div class="row">
   <div class="col-md-5">
-    <div class="pubimg"><img src="vaccine.jpg" width="450px" 
+    <div class="pubimg"><img src="vaccine.png" width="450px" 
      height="500px"></div>
     </div>
     <div class="col-md-7">
@@ -241,7 +241,7 @@ author_profile: true
 <div class="pubwrap">
   <div class="row">
   <div class="col-md-5">
-    <div class="pubimg"><img src="ICLR.png" width="450px" 
+    <div class="pubimg"><img src="ICLR_new.png" width="450px" 
      height="500px"></div>
     </div>
     <div class="col-md-7">
@@ -263,14 +263,15 @@ author_profile: true
 <div class="pubwrap">
   <div class="row">
   <div class="col-md-5">
-    <div class="pubimg"><img src="SDM.png" width="450px" 
+    <div class="pubimg"><img src="SDM_new.png" width="450px" 
      height="500px"></div>
     </div>
     <div class="col-md-7">
   <div class="pub">
-  <div class="pubt">Inductive and Unsupervised Representation Learning on Graph Structured Objects</div>
-  <div class="puba">Lichen Wang, Qianqian Ma, Bo Zong</div>  <div class="pubv">2019.11-2020.01</div>          
-        <div class="pubd"> Current adversarial adaptation methods attempt to alignthe cross-domain features, whereas two challenges remain unsolved: 1) the conditional distribution mismatch and 2)the bias of the decision boundary towards the source domain. To solve these challenges, we propose a novel framework for semi-supervised domain adaptation by unifying the learning of opposite structures (UODA). UODA consists of a generator and two classifiers (i.e., the sourcescattering classifier and the target-clustering classifier), which are trained for contradictory purposes. The target-clustering classifier attempts to cluster the target features to improve intra-class density and enlarge inter-class divergence. Meanwhile, the source-scattering classifier is designed to scatter the source features to enhance the decision boundary’s smoothness. Through the alternation of source-feature expansion and target-feature clustering procedures, the target features are well-enclosed within the dilated boundary of the corresponding source features. This strategy can make the cross-domain features to be precisely aligned against the source bias simultaneously. Moreover, to overcome the model collapse through training, we progressively update the measurement of feature’s distance and their representation via an adversarial training paradigm. Extensive experiments on the benchmarks of DomainNet and Office-home datasets demonstrate the superiority of our approach over the state-of-the-art methods. <a href="https://arxiv.org/pdf/2002.02545.pdf">[PDF]</a>
+  <div class="pubt">Contradictory Structure Learning for Semi-supervised Domain Adaptation</div>
+  <div class="puba">Can Qin, Lichen Wang, Qianqian Ma
+  </div>  <div class="pubv">2019.11-2020.01</div>          
+        <div class="pubd"> Current adversarial adaptation methods attempt to align the cross-domain features, whereas two challenges remain unsolved: 1) the conditional distribution mismatch and 2) the bias of the decision boundary towards the source domain. To solve these challenges, we propose a novel framework for semi-supervised domain adaptation by unifying the learning of opposite structures (UODA). UODA consists of a generator and two classifiers (i.e., the sourcescattering classifier and the target-clustering classifier), which are trained for contradictory purposes. The target-clustering classifier attempts to cluster the target features to improve intra-class density and enlarge inter-class divergence. Meanwhile, the source-scattering classifier is designed to scatter the source features to enhance the decision boundary’s smoothness. Through the alternation of source-feature expansion and target-feature clustering procedures, the target features are well-enclosed within the dilated boundary of the corresponding source features. This strategy can make the cross-domain features to be precisely aligned against the source bias simultaneously. Moreover, to overcome the model collapse through training, we progressively update the measurement of feature’s distance and their representation via an adversarial training paradigm. Extensive experiments on the benchmarks of DomainNet and Office-home datasets demonstrate the superiority of our approach over the state-of-the-art methods <a href="https://arxiv.org/pdf/2002.02545.pdf">[PDF]</a>
         </div>  
         <div class="publ">
           <ul>
@@ -280,6 +281,53 @@ author_profile: true
     </div>
     </div>
 </div> 
+
+
+<div class="pubwrap">
+  <div class="row">
+  <div class="col-md-5">
+    <div class="pubimg"><img src="TD0.png" width="450px" 
+     height="500px"></div>
+    </div>
+    <div class="col-md-7">
+  <div class="pub">
+  <div class="pubt">Distributed TD(0) with almost no communication</div>
+  <div class="puba">Qianqian Ma, Rui Liu, Ruizhao Zhu
+  </div>  <div class="pubv">2021.04-2021.05</div>          
+        <div class="pubd"> We studied a new TD(0) method with linear function approximation. In particular, to the extent that the variance of the temporal difference error affects the performance of TD(0), the performance of distributed TD(0) with local state is a factor of N times better than the performance of regular TD(0), where N is the number of agents. We provide the results of numerical experiments on classic control problems in the OpenAI Gym and a grid world Markov Decision Process (MDP). <a href="https://drive.google.com/file/d/1TW2cyjUw1smeUQGmSioG2oTyPo-azO81/view">[PDF]</a>
+        </div>  
+        <div class="publ">
+          <ul>
+          </ul>
+        </div>
+      </div>
+    </div>
+    </div>
+</div> 
+
+
+<div class="pubwrap">
+  <div class="row">
+  <div class="col-md-5">
+    <div class="pubimg"><img src="online_learning.png" width="450px" 
+     height="500px"></div>
+    </div>
+    <div class="col-md-7">
+  <div class="pub">
+  <div class="pubt">Projection-Free Online Matrix Completion</div>
+  <div class="puba">Qianqian Ma, Artin Spiridonoff
+  </div>  <div class="pubv">2019.11-2019.12</div>          
+        <div class="pubd"> In this project, we aim to propose a new efficient online algorithm to solve the low-rank matrix completion problem, by combining a fast offline algorithm for matrix completion BlockFW, and Online Frank-Wolfe algorithm. We utilize the techniques learned from the course (intro to Online Learning) to propose solutions to the problems we face during this project. Numerical simulations are performed to illustrate the performance of different methods.<a href="https://drive.google.com/file/d/1uxkTS-6j4kshwz4-JlWjYx2LidBVlxXt/view">[PDF]</a>
+        </div>  
+        <div class="publ">
+          <ul>
+          </ul>
+        </div>
+      </div>
+    </div>
+    </div>
+</div> 
+
 
 
 <!-- ## Ongoing Projects
