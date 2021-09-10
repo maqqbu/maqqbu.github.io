@@ -11,22 +11,22 @@ author_profile: true
 
 * **Qianqian Ma**, Yang-Yu Liu, Alex Olshevsky, "Optimal Lockdown for Pandemic Control", <i>preprint</i>, 2021. [<span> [PDF] </span>](https://arxiv.org/pdf/2010.12923.pdf}{arXiv:2010.12923)
 
-* **Qianqian Ma**, Alex Olshevsky, "Adversarial Crowdsourcing Through Robust Rank-One Matrix Completion", <i>Proceedings of NeurIPS</i>, 2020. [<span> [PDF] </span>](https://arxiv.org/pdf/2010.12181.pdf)[<span style ="color:Teal">[code (Python)]</span>](https://github.com/Toloka/crowd-kit/blob/main/src/aggregation/m_msr.py)[<span style ="color:Teal">[code (Matlab)]</span>](https://github.com/maqqbu/MMSR) [<span style ="color:Green">[video]</span>](https://videos.neurips.cc/category/1977/playlist/211)
+* **Qianqian Ma**, Alex Olshevsky, "Adversarial Crowdsourcing Through Robust Rank-One Matrix Completion", <i>2020 Neural Information Processing Systems (NeurIPS)</i>. [<span> [PDF] </span>](https://arxiv.org/pdf/2010.12181.pdf)[<span style ="color:Teal">[code (Python)]</span>](https://github.com/Toloka/crowd-kit/blob/main/src/aggregation/m_msr.py)[<span style ="color:Teal">[code (Matlab)]</span>](https://github.com/maqqbu/MMSR) [<span style ="color:Green">[video]</span>](https://videos.neurips.cc/category/1977/playlist/211)
 
-* Can Qin, Lichen Wang, **Qianqian Ma**, "Contradictory Structure Learning for Semi-supervised Domain Adaptation", <i>Proceedings of SDM</i>, 2021. [<span> [PDF] </span>](https://arxiv.org/pdf/2002.02545.pdf)
+* Can Qin, Lichen Wang, **Qianqian Ma**, "Contradictory Structure Learning for Semi-supervised Domain Adaptation", <i>2021 SIAM International Conference on Data Mining (SDM)</i>. [<span> [PDF] </span>](https://arxiv.org/pdf/2002.02545.pdf)
 
-* Lichen Wang, Bo Zong,**Qianqian Ma**, Wei Cheng, Jingchao Ni, Wenchao Yu, Yanchi Liu, Dongjing Song, Haifeng Chen, and Yun Fu, "Inductive and Unsupervised Representation Learning on Graph Structured Objects", <i>Proceedings of ICLR</i>, 2020. [<span> [PDF] </span>](https://openreview.net/pdf?id=rkem91rtDB)[<span style ="color:Teal">[code]</span>](https://github.com/wanglichenxj/Inductive-and-Unsupervised-Representation-Learning-on-Graph-Structured-Objects)
+* Lichen Wang, Bo Zong,**Qianqian Ma**, Wei Cheng, Jingchao Ni, Wenchao Yu, Yanchi Liu, Dongjing Song, Haifeng Chen, and Yun Fu, "Inductive and Unsupervised Representation Learning on Graph Structured Objects", <i>2020 International Conference on Learning Representations (ICLR)</i>. [<span> [PDF] </span>](https://openreview.net/pdf?id=rkem91rtDB)[<span style ="color:Teal">[code]</span>](https://github.com/wanglichenxj/Inductive-and-Unsupervised-Representation-Learning-on-Graph-Structured-Objects)
 
 
-* **Qianqian Ma**, Li Li, Guangcheng Ma, Daling Jia, Hongwei Xia, "A new fuzzy H filter design for nonlinear time-delay systems with mismatched premise membership functions", <i>Proceedings of IFAC</i>, 2017. [<span> [PDF] </span>](https://www.sciencedirect.com/science/article/pii/S2405896317306031)
+* **Qianqian Ma**, Li Li, Guangcheng Ma, Daling Jia, Hongwei Xia, "A new fuzzy H filter design for nonlinear time-delay systems with mismatched premise membership functions", <i>2017 International Federation of Automatic Control World Congress (IFAC)</i>. [<span> [PDF] </span>](https://www.sciencedirect.com/science/article/pii/S2405896317306031)
 
-* **Qianqian Ma**, Li Li, Junhui Shen, Haowei Guan, Guangcheng Ma, Hongwei Xia, "Improved fuzzy H&infin<sub></sub> filter design method for nonlinear systems with time-varying delay", <i>Proceedings of SMC</i>, 2017. [<span> [PDF] </span>](https://ieeexplore.ieee.org/document/8122693)
+* **Qianqian Ma**, Li Li, Junhui Shen, Haowei Guan, Guangcheng Ma, Hongwei Xia, "Improved fuzzy H&infin<sub></sub> filter design method for nonlinear systems with time-varying delay", <i>2017 IEEE International Conference on Systems, Man, and Cybernetics (SMC)</i>. [<span> [PDF] </span>](https://ieeexplore.ieee.org/document/8122693)
 
-* **Qianqian Ma**, Hongwei Xia, Guangcheng Ma, Yong Xia, Chong Wang, "Improved stability and stabilization criteria for T-S fuzzy systems with distributed time-delay", <i>Proceedings of DMBD</i>, 2017. [<span> [PDF] </span>](https://www.springerprofessional.de/en/improved-stability-and-stabilization-criteria-for-t-s-fuzzy-syst/13311752)
+* **Qianqian Ma**, Hongwei Xia, Guangcheng Ma, Yong Xia, Chong Wang, "Improved stability and stabilization criteria for T-S fuzzy systems with distributed time-delay", <i>2017 International Conference of Data Mining and Big Data (DMBD)</i>. [<span> [PDF] </span>](https://www.springerprofessional.de/en/improved-stability-and-stabilization-criteria-for-t-s-fuzzy-syst/13311752)
 
-* **Qianqian Ma**, Li Li, Hongwei Xia, Mingyang Yang, and Guangcheng Ma, "New Results on Stability and Stabilization Analyses for T-S fuzzy systems with Distributed Time-Delay under Imperfect Premise Matching", <i>Proceedings of ICICIP</i>, 2016. [<span> [PDF] </span>](https://ieeexplore.ieee.org/document/7885886)
+* **Qianqian Ma**, Li Li, Hongwei Xia, Mingyang Yang, and Guangcheng Ma, "New Results on Stability and Stabilization Analyses for T-S fuzzy systems with Distributed Time-Delay under Imperfect Premise Matching", <i>2016 International Conference on Intelligent Control and Information Processing (ICICIP)</i>. [<span> [PDF] </span>](https://ieeexplore.ieee.org/document/7885886)
 
-* Li Li, **Qianqian Ma**, Hongwei Xia, Hongwei Xia, Guangcheng Ma, and Dali Zhang, "New H_\infty Filter Design Approach for Time-Delay Fuzzy-Model-Based System under Imperfect Premise Matching", <i>Proceedings of ICICIP</i>, 2016. [<span> [PDF] </span>](https://ieeexplore.ieee.org/document/7885891)
+* Li Li, **Qianqian Ma**, Hongwei Xia, Hongwei Xia, Guangcheng Ma, and Dali Zhang, "New H_\infty Filter Design Approach for Time-Delay Fuzzy-Model-Based System under Imperfect Premise Matching", <i>2016 International Conference on Intelligent Control and Information Processing (ICICIP)</i>. [<span> [PDF] </span>](https://ieeexplore.ieee.org/document/7885891)
 
 
 

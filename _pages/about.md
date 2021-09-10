@@ -10,31 +10,48 @@ redirect_from:
 
 Welcome to Qianqian Ma's homepage!
 
-<!-- <div style="text-align: justify"> 
-I'm a Phd Candidate in Boston University in <a href="https://www.zillowgroup.com/">Zillow Group</a> since 2021. I received my Ph.D. degree in <a href="https://www.zillowgroup.com/">SMILE Lab</a>, Department of Electrical & Computer Engineering at <a href="https://www.zillowgroup.com/">Northeastern University</a> under the supervision of Prof. <a href="https://www.zillowgroup.com/">Yun (Raymond) Fu</a>, in 2021. I received my M.S. degree in Electrical Engineering from <a href="https://www.zillowgroup.com/">Xi'an Jiaotong University</a>, China, in 2016. I received my B.S. degree in Electrical Engineering from <a href="https://www.zillowgroup.com/">Harbin Institute of Technology</a>, China, in 2013. My research interests include Machine Learning, Data Mining, Computer Vision, and Image Processing.<br /><br />
-</div> -->
 
-<div style="text-align: justify"> 
+<!-- <div style="text-align: justify"> 
 Hi, I'm a Ph.D. student in the <a href="https://www.bu.edu/eng/departments/ece/">Department of Electrical and Computer Engineering</a>  at Boston University. My advisor is Prof. <a href="https://sites.bu.edu/aolshevsky/">Alex Olshevsky</a>. I received my M.S. degree in Electrical Engineering from <a href="http://www.hit.edu.cn/">Harbin Institute of Technology (HIT)</a>, China, in 2017. I received my B.S. degree in Electrical Engineering from <a href="http://www.hit.edu.cn/">Harbin Institute of Technology (HIT)</a>, China, in 2014. <br /><br />
 </div>
 
 <div style="text-align: justify"> 
 My research interests include distributed optimization, machine learning and reinforcement learning. <br /><br />
-</div>
+</div> -->
+
+
+Hi, I'm a Ph.D. student in the <a href="https://www.bu.edu/eng/departments/ece/">Department of Electrical and Computer Engineering</a>  at Boston University. My advisor is Prof. <a href="https://sites.bu.edu/aolshevsky/">Alex Olshevsky</a>. My research interests include **distributed optimization, machine learning and reinforcement learning**.
+
+
+**Feel free to contact me if you have any questions! &#x1F60a;**
 
 <!-- <div style="text-align: justify"> 
 I worked as a research intern in Data Science group of Nokia Bell Lab in the summer of 2021. I also worked as a full-time teacher for 1 year time in a senior high school which locates in Yunnan province of china.  <br /><br />
 </div>
  -->
+ -----------
+# Education
+* Boston University
+	* Ph. D Candidate in Information and Data Science, Sep. 2017-Present
+* Harbin Institute of Technology
+	* Master of Science in Engineering, Jul. 2015-Jul. 2017
+* Harbin Institute of Technology
+	* Bachelor of Engineering, Aug. 2010-Jun. 2014
+
+
+
+
+
 
 -----------
 # Working Experience
 * Research Intern in Data Science group of Nokia Bell Lab, Summer 2021 &nbsp; &nbsp; &nbsp; 
+* Research Assistant in ECE Deparment of Boston University, Sep. 2017- Present
 * Teaching Assistant for EC503 Learning from Data, Fall 2018, Spring 2019 &nbsp; &nbsp; &nbsp; 
-* Full-time Teacher at Ninglang No.1 Senior High School of Yunnan Province (a voluntary project of HIT), Jul 2014- Jul 2015 &nbsp; &nbsp; &nbsp; 
+* Full-time Teacher at Ninglang No.1 Senior High School of Yunnan Province (a voluntary project of HIT), Jul. 2014- Jul. 2015 &nbsp; &nbsp; &nbsp; 
 
 
-**Feel free to contact me if you have any questions! &#x1F60a;**
+
 
 <!-- -----------
 
