@@ -15,9 +15,9 @@ author_profile: true
 
 * **Qianqian Ma**, Dan Kushnir, "Graph-based Impact-driven Exploration for Procedually-generated Environment", <i>in preparation</i>, 2021.
 
-* **Qianqian Ma**, Yang-Yu Liu, Alex Olshevsky, "Optimal Vaccine Allocation for Epidemic Control", <i>in preparation</i>, 2021.
+* **Qianqian Ma**, Yang-Yu Liu, Alex Olshevsky, "Optimal Vaccine Allocation for Pandemic Stabilization", <i>preprint</i>, 2021. [<span> [PDF] </span>](https://arxiv.org/pdf/2109.04612.pdf)
 
-* **Qianqian Ma**, Yang-Yu Liu, Alex Olshevsky, "Optimal Lockdown for Pandemic Control", <i>preprint</i>, 2021. [<span> [PDF] </span>](https://arxiv.org/pdf/2010.12923.pdf}{arXiv:2010.12923)
+* **Qianqian Ma**, Yang-Yu Liu, Alex Olshevsky, "Optimal Lockdown for Pandemic Control", <i>preprint</i>, 2021. [<span> [PDF] </span>](https://arxiv.org/pdf/2010.12923.pdf)
 
 * **Qianqian Ma**, Alex Olshevsky, "Adversarial Crowdsourcing Through Robust Rank-One Matrix Completion", <i>2020 Neural Information Processing Systems (NeurIPS)</i>. [<span> [PDF] </span>](https://arxiv.org/pdf/2010.12181.pdf)[<span style ="color:Teal">[code (Python)]</span>](https://github.com/Toloka/crowd-kit/blob/main/src/aggregation/m_msr.py)[<span style ="color:Teal">[code (Matlab)]</span>](https://github.com/maqqbu/MMSR) [<span style ="color:Green">[video]</span>](https://videos.neurips.cc/category/1977/playlist/211)
 
