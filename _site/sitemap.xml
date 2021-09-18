@@ -130,10 +130,6 @@
 <lastmod>2021-09-17T18:54:36-07:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/files/A_Survey_on_subgradient_methods.pdf</loc>
-<lastmod>2021-09-01T19:39:57-07:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/files/distributed_TD0.pdf</loc>
 <lastmod>2021-09-01T19:31:04-07:00</lastmod>
 </url>
@@ -144,6 +140,10 @@
 <url>
 <loc>http://localhost:4000/files/structural_controlability.pdf</loc>
 <lastmod>2021-09-01T19:40:44-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/files/subgradient.pdf</loc>
+<lastmod>2021-09-01T19:39:57-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/survival_analysis.pdf</loc>
