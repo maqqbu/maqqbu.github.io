@@ -295,7 +295,7 @@ author_profile: true
   <div class="pub">
   <div class="pubt">Distributed TD(0) with almost no communication</div>
   <div class="puba">Qianqian Ma, Rui Liu, Ruizhao Zhu
-  </div>  <div class="pubv">2021.04-2021.05 &nbsp;&nbsp; <a href="https://drive.google.com/file/d/1TW2cyjUw1smeUQGmSioG2oTyPo-azO81/view">[PDF]</a></div>          
+  </div>  <div class="pubv">2021.04-2021.05 &nbsp;&nbsp; <a href="http://maqqbu.github.io/files/2016ICICIP_Fuzzyfilter.pdf">[PDF]</a></div>          
         <div class="pubd"> We studied a new TD(0) method with linear function approximation. In particular, to the extent that the variance of the temporal difference error affects the performance of TD(0), the performance of distributed TD(0) with local state is a factor of N times better than the performance of regular TD(0), where N is the number of agents. We provide the results of numerical experiments on classic control problems in the OpenAI Gym and a grid world Markov Decision Process (MDP). 
         </div>  
         <div class="publ">
@@ -318,7 +318,7 @@ author_profile: true
   <div class="pub">
   <div class="pubt">Projection-Free Online Matrix Completion</div>
   <div class="puba">Qianqian Ma, Artin Spiridonoff
-  </div>  <div class="pubv">2019.11-2019.12 &nbsp;&nbsp; <a href="https://drive.google.com/file/d/1uxkTS-6j4kshwz4-JlWjYx2LidBVlxXt/view">[PDF]</a></div>          
+  </div>  <div class="pubv">2019.11-2019.12 &nbsp;&nbsp; <a href="http://maqqbu.github.io/files/Projection-Free Online Matrix Completion.pdf">[PDF]</a></div>          
         <div class="pubd"> In this project, we aim to propose a new efficient online algorithm to solve the low-rank matrix completion problem, by combining a fast offline algorithm for matrix completion BlockFW, and Online Frank-Wolfe algorithm. We utilize the techniques learned from the course (intro to Online Learning) to propose solutions to the problems we face during this project. Numerical simulations are performed to illustrate the performance of different methods.
         </div>  
         <div class="publ">
