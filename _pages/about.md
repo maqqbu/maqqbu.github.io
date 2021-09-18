@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Qianqian Ma's homepage1!
+Welcome to Qianqian Ma's homepage!
 
 
 <!-- <div style="text-align: justify"> 
