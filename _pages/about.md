@@ -45,14 +45,14 @@ I worked as a research intern in Data Science group of Nokia Bell Lab in the sum
 
 -----------
 # Working Experience
-* **Nokia Bell Lab** (Data Science group), Research Intern, Summer 2021
+* **Nokia Bell Lab**, Data Science group, Research Intern, Summer 2021
 	* The exploration of the sparse environment in reinforcement learning
-* Boston University, Research Assistant, Sep. 2017- Present
+* **Boston University**, ECE, Research Assistant, Sep. 2017- Present
 	* Crowdsourcing and matrix completion
 	* Disease modeling and pandemic control
 	* Graph representation learning
 	* Transfer learning
-* Boston University, Teaching Assistant, Fall 2018, Spring 2019
+* **Boston University**, ECE, Teaching Assistant, Fall 2018, Spring 2019
 	* ENG EC503 Introduction to Learning from Data (a machine learning course)
 * Ninglang No.1 High School of Yunnan Province, Full-time Teacher, Jul. 2014- Jul. 2015
 	* A voluntary project of HIT
