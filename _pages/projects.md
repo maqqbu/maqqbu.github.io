@@ -173,7 +173,7 @@ author_profile: true
 <div class="pubwrap">
   <div class="row">
   <div class="col-md-5">
-    <div class="pubimg"><img src="neurips.png" width="450px" 
+    <div class="pubimg"><img src="neurips1.png" width="450px" 
      height="500px"></div>
     </div>
     <div class="col-md-7">
@@ -196,7 +196,7 @@ author_profile: true
 <div class="pubwrap">
   <div class="row">
   <div class="col-md-5">
-    <div class="pubimg"><img src="lockdown.png" width="450px" 
+    <div class="pubimg"><img src="lockdown2.png" width="450px" 
      height="500px"></div>
     </div>
     <div class="col-md-7">
@@ -221,13 +221,13 @@ author_profile: true
 <div class="pubwrap">
   <div class="row">
   <div class="col-md-5">
-    <div class="pubimg"><img src="vaccine.png" width="450px" 
+    <div class="pubimg"><img src="vaccine2.png" width="450px" 
      height="500px"></div>
     </div>
     <div class="col-md-7">
   <div class="pub">
   <div class="pubt">Optimal Vaccine Allocation for Pandemic Stabilization</div>
-  <div class="puba">Qianqian Ma, Yang-Yu Liu, Alex Olshevsky</div>  <div class="pubv">2021.01-present</div>          
+  <div class="puba">Qianqian Ma, Yang-Yu Liu, Alex Olshevsky</div>  <div class="pubv">2021.01-present &nbsp;&nbsp;  <a href="https://arxiv.org/pdf/2109.04612.pdf">[PDF]</a></div>          
         <div class="pubd"> 
           How to strategically allocate the available vaccines is a crucial issue for pandemic control. In this work, we propose a mathematical framework for optimal stabilizing vaccine allocation, where our goal is to send the infections to zero as soon as possible with a fixed number of vaccine doses.  This framework allows us to efficiently compute the optimal vaccine allocation policy for general epidemic spread models including SIS/SIR/SEIR and a new model of COVID-19 transmissions. By fitting the real data in New York State to our framework, we found that the optimal stabilizing vaccine allocation policy suggests offering vaccines priority to locations where there are more susceptible people and where the residents spend longer time outside the home. Besides, we found that offering vaccines priority to young adults (20-29) and middle-age adults (20-44) can minimize the cumulative infected cases and the death cases. Moreover, we compared our method with five age-stratified strategies in <a href="https://www.science.org/doi/full/10.1126/science.abe6959">Kate Bubar et al, 2021</a> based on their epidemics model. We also found it's better to offer vaccine priorities to young people to curb the disease and minimize the deaths when the basic reproduction number R_0 is moderately above one, which describes the most world during COVID-19. Such phenomenon has been ignored in <a href="https://www.science.org/doi/full/10.1126/science.abe6959">Kate Bubar et al, 2021</a>.
         </div>  
@@ -243,7 +243,7 @@ author_profile: true
 <div class="pubwrap">
   <div class="row">
   <div class="col-md-5">
-    <div class="pubimg"><img src="ICLR_new.png" width="450px" 
+    <div class="pubimg"><img src="ICLR1.png" width="450px" 
      height="500px"></div>
     </div>
     <div class="col-md-7">
@@ -265,14 +265,14 @@ author_profile: true
 <div class="pubwrap">
   <div class="row">
   <div class="col-md-5">
-    <div class="pubimg"><img src="SDM_new.png" width="450px" 
+    <div class="pubimg"><img src="SDM2.png" width="450px" 
      height="500px"></div>
     </div>
     <div class="col-md-7">
   <div class="pub">
   <div class="pubt">Contradictory Structure Learning for Semi-supervised Domain Adaptation</div>
   <div class="puba">Can Qin, Lichen Wang, Qianqian Ma
-  </div>  <div class="pubv">2019.11-2020.01 &nbsp;&nbsp; <a href="https://arxiv.org/pdf/2002.02545.pdf">[PDF]</a></div>          
+  </div>  <div class="pubv">2019.11-2020.01 &nbsp;&nbsp; <a href="https://arxiv.org/pdf/2002.02545.pdf">[PDF]</a>, <a href="https://github.com/canqin001/UODA">[code (Python)]</a> </div>          
         <div class="pubd"> Current adversarial adaptation methods attempt to align the cross-domain features, whereas two challenges remain unsolved: 1) the conditional distribution mismatch and 2) the bias of the decision boundary towards the source domain. To solve these challenges, we propose a novel framework for semi-supervised domain adaptation by unifying the learning of opposite structures (UODA). UODA consists of a generator and two classifiers (i.e., the sourcescattering classifier and the target-clustering classifier), which are trained for contradictory purposes. The target-clustering classifier attempts to cluster the target features to improve intra-class density and enlarge inter-class divergence. Meanwhile, the source-scattering classifier is designed to scatter the source features to enhance the decision boundary’s smoothness. Through the alternation of source-feature expansion and target-feature clustering procedures, the target features are well-enclosed within the dilated boundary of the corresponding source features. This strategy can make the cross-domain features to be precisely aligned against the source bias simultaneously. Moreover, to overcome the model collapse through training, we progressively update the measurement of feature’s distance and their representation via an adversarial training paradigm. Extensive experiments on the benchmarks of DomainNet and Office-home datasets demonstrate the superiority of our approach over the state-of-the-art methods. 
         </div>  
         <div class="publ">
@@ -288,7 +288,7 @@ author_profile: true
 <div class="pubwrap">
   <div class="row">
   <div class="col-md-5">
-    <div class="pubimg"><img src="TD0.png" width="450px" 
+    <div class="pubimg"><img src="TD02.png" width="450px" 
      height="500px"></div>
     </div>
     <div class="col-md-7">
